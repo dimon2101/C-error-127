@@ -1,0 +1,9 @@
+#=========worx for Geany==========
+# compiling my .cpp file good, 
+# but runs bad: ./geany_run_script.sh: 5: ./[filename]: not found
+
+------------------
+(program exited with code: 127)
+Press return to continue
+
+# see my solvation at pic: https://yapx.ru/v/G6wi5 
